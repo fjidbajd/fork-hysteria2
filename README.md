@@ -67,19 +67,7 @@ iOS端推荐：
 
 [hiddify](https://github.com/hiddify/hiddify-next)(国外大神制作) 
 
-## AD推荐
 
-akile的dns解锁流媒体vps [akile](https://akile.io/register?aff_code=99532291-0323-491e-bdd7-fbcfebbd1fa5)
-
-碳云低价cn2香港服务器
-[coal](https://www.coalcloud.net/aff.php?aff=684)
-
-dupay借记卡(可申请谷歌云,亚马逊,微软云,甲骨云等等)
-[dupay](https://dupay.one/web-app/register-h5?invitCode=200333&lang=zh-cn)
-
-## 欢迎添加小⭐⭐
-
-[![Stargazers over time](https://starchart.cc/seagullz4/hysteria2.svg?variant=adaptive)](https://starchart.cc/seagullz4/hysteria2)
 
  
 ## 免责声明:
