@@ -19,10 +19,7 @@ hysteria2一键安装(轻量级超低占用)
 
 **在线订阅转换网站**(支持多种协议互转):[订阅转换](https://sub.crazyact.com/)
 
-**🙃安装脚本(shell版)(基本不在维护):**
-```
-wget -O install.sh https://raw.githubusercontent.com/seagullz4/hysteria2/main/install.sh && chmod +x install.sh && bash install.sh
-```
+
 **🙃安装脚本2(python版)(推荐):**
 ```
 #执行安装依赖(请执一次依赖安装在进行安装脚本):
@@ -34,46 +31,6 @@ wget -O phy2.sh https://raw.githubusercontent.com/seagullz4/hysteria2/main/phy2.
 wget -O hy2.py https://raw.githubusercontent.com/seagullz4/hysteria2/main/hysteria2.py && chmod +x hy2.py && python3 hy2.py
 ```
 
-**新增快捷方式终端输入hy2一键执行脚本**
-
-**我的联系方式:[电报](https://t.me/seagullz44)**
-
-本项目原hysteria2地址请点击[hysteria](https://github.com/apernet/hysteria)
-
-安卓/ios/mac/linux/win等平台详见:[hysteia2三方应用](https://v2.hysteria.network/zh/docs/getting-started/3rd-party-apps/)
-
-ios端推荐:
-
-hiddfy,Shadowrocket等
-
-安卓端推荐：
-
-[nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-
-[husi](https://github.com/xchacha20-poly1305/husi/releases)(非常不错+nice)
-
-[Clash-Meta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-
-[hiddify](https://github.com/hiddify/hiddify-next/releases)(国外大神制作) 
-
-[v2rayNG](https://github.com/2dust/v2rayNG/releases)
-
-电脑端推荐:
-
-[v2ray](https://github.com/2dust/v2rayN/releases)(推荐)
-
-[Clash-Verge](https://github.com/clash-verge-rev/clash-verge-rev/releases)
-
-[hiddify](https://github.com/hiddify/hiddify-next/releases)(国外大神制作) 
-
-## 服务器推荐
-
-akile的dns解锁流媒体vps [akile](https://akile.io/register?aff_code=99532291-0323-491e-bdd7-fbcfebbd1fa5)
-
-
-## 欢迎添加小⭐⭐
-
-[![Stargazers over time](https://starchart.cc/seagullz4/hysteria2.svg?variant=adaptive)](https://starchart.cc/seagullz4/hysteria2)
 
  
 ## 免责声明:
