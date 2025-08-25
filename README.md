@@ -1,6 +1,4 @@
 # Hysteria2
-hysteria2一键安装(轻量级超低占用)
-宝宝们如果觉得好用，记得点个小星星⭐️哦
 
 ## **😇使用教程**:
 ☆本脚本将减少维护更新(主要是前期没写简洁明了)，后续将会出python版(预计支持大部分功能)
@@ -18,13 +16,13 @@ hysteria2一键安装(轻量级超低占用)
 ☆支持安装xanmod内核使用bbrv3加速（脚本来自[ylx2016](https://github.com/ylx2016/Linux-NetSpeed)）
 
 
-
 **🙃安装脚本2(python版)(推荐):**
 ```
 #执行安装依赖(请执一次依赖安装在进行安装脚本):
 
 wget -O phy2.sh https://raw.githubusercontent.com/seagullz4/hysteria2/main/phy2.sh && chmod +x phy2.sh && bash phy2.sh
-
+```
+```
 #执行安装脚本:
 
 wget -O hy2.py https://raw.githubusercontent.com/seagullz4/hysteria2/main/hysteria2.py && chmod +x hy2.py && python3 hy2.py
